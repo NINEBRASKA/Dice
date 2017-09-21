@@ -6,6 +6,7 @@ void setup()
 }
 void draw()
 {
+  background(197,197,197);
   int count = 0;
   for ( int y = 20; y < 400; y = y + 80)
   {
