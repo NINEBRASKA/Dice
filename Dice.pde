@@ -17,7 +17,7 @@ void draw()
       count = count + bob.dRandom;
     }
   }
-  System.out.println(count);
+  //System.out.println(count);
   text("total: " + count, 200, 450);
 }
 void mousePressed()
